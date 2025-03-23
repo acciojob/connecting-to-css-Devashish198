@@ -14,8 +14,9 @@ header {
 
 /* Navigation Bar */
 nav {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0); /* Ensure it's pure black */
     padding: 10px;
+    color: rgb(255, 255, 255); /* Ensure text color is pure white */
 }
 nav ul {
     list-style: none;
